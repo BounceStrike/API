@@ -1,5 +1,5 @@
 # API documentation - Deploy email verification in seconds
-Real-Time Email Verification API by BounceStrike
+Real-Time Email Verification API by [BounceStrike](https://bouncestrike.com/)
 
 ## How to Call the API
 
